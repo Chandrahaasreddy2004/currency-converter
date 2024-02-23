@@ -1,2 +1,2 @@
 # currency-converter
-currency-converter using JS
+This is a currency-converter using JS project
